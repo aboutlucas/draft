@@ -2,9 +2,9 @@
 
 Começando html/css/js
   
-  [html](https://pt.wikipedia.org/wiki/HTML/) - Linguagem de marcação;
-  css - folha de estilo;
-  js  - funções;
+  [HTML](https://pt.wikipedia.org/wiki/HTML/) - Linguagem de marcação;
+  CSS - folha de estilo;
+  JS  - funções;
   
 ### Criando um site
   
