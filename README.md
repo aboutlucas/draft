@@ -1,6 +1,7 @@
 # Draft
 
 Editor:
+  [Sublime text](http://www.sublimetext.com/3)
   
 Começando html/css/js
   
